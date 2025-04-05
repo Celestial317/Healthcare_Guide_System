@@ -57,7 +57,7 @@ class _DiseaseInfoScreenState extends State<DiseaseInfoScreen> {
       dio.options.connectTimeout = const Duration(seconds: 10);
       dio.options.receiveTimeout = const Duration(seconds: 10);
 
-      const String baseUrl = 'http://192.168.1.7:8080';
+      const String baseUrl = 'https://healthadvisor2-9.onrender.com';
       print('Sending request to: $baseUrl/api/disease/info');
       final response = await dio.post(
         '$baseUrl/api/disease/info',
