@@ -1,16 +1,33 @@
-# cloud
+# HealthCare Guide System  
+**Your Pocket Guide to Health, Cure, and Cost**
 
-A new Flutter project.
+It is an intuitive Android application designed to empower common users with essential healthcare insights based on **location** and **specific diseases**. The app helps users plan treatments by offering information on nearby facilities, disease details, and approximate **expenditure**. Powered by the **Gemini API**, it ensures smart, location-aware health decisions right from your phone.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🔍 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Disease-Based Info Search**  
+  Get human-readable explanations and medical insights for any disease or health condition.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Location-Aware Suggestions**  
+  Find hospitals, clinics, and healthcare providers nearby based on your current or entered location.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Expenditure Estimation**  
+  Understand the possible treatment costs to plan your finances effectively.
+
+- **Powered by Gemini API**  
+  Uses the power of Google's Gemini API to fetch relevant, up-to-date health information in natural language.
+
+---
+
+## 🚀 How It Works
+
+1. **Enter Disease** – Type the name or symptoms of a disease.
+2. **Set Location** – Manually enter your city/area (or the area you want to get treated).
+3. **Get Results** – View disease overview, nearby facilities, and cost estimates.
+4. **Plan Ahead** – Make informed decisions for timely and affordable care.
+
+---
+
+This is the submission to the Google Solution Challenge of Team Kitkat.
