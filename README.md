@@ -3,7 +3,8 @@
 
 It is an intuitive Android application designed to empower common users with essential healthcare insights based on **location** and **specific diseases**. The app helps users plan treatments by offering information on nearby facilities, disease details, and approximate **expenditure**. Powered by the **Gemini API**, it ensures smart, location-aware health decisions right from your phone.
 
-![android app](https://github.com/user-attachments/assets/92135118-dffd-462f-ad65-bd808f7fbf8f)
+![android app](https://github.com/user-attachments/assets/1ed8805d-8421-4996-8c04-55177cda3071)
+
 
 ---
 
